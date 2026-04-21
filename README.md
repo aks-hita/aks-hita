@@ -12,11 +12,11 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on **PROJECT_NAME**
-- 🌱 I’m currently learning **TECHNOLOGY**
+- 🌱 I’m currently learning **SQL AND PYTHON**
 - 👯 I’m looking to collaborate on **OPEN SOURCE PROJECTS**
-- 💬 Ask me about **PROGRAMMING LANGUAGES**
+- 💬 Ask me about **C++**
 - 📫 Reach me at **bhar.akshita28@email.com**
-- ⚡ Fun fact: **Something interesting**
+- ⚡ Fun fact: **I believe semicolons have feelings too :(**
 
 ---
 
@@ -24,7 +24,6 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 
 ### Frameworks & Tools
@@ -82,3 +81,4 @@
 ---
 
 ⭐ From [aks-hita](https://github.com/aks-hita)
+This is currently underdevelopment and will be updated soon!
