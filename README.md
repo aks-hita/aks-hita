@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **PROJECT_NAME**
+- 🔭 I’m currently working on **A FULL FLEDGED PORTFOLIO WEBSITE**
 - 🌱 I’m currently learning **SQL AND PYTHON**
 - 👯 I’m looking to collaborate on **OPEN SOURCE PROJECTS**
 - 💬 Ask me about **C++**
@@ -26,10 +26,6 @@
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![C++](https://img.shields.io/badge/C++-blue?logo=cplusplus)
 
-### Frameworks & Tools
-
-
----
 
 ## 📊 GitHub Stats
 
@@ -60,7 +56,7 @@
 
 
 ---
-
+<!--
 ## ⭐ Featured Projects
 
 | Project | Description | Tech |
@@ -70,12 +66,15 @@
 | Project 3 | Short description | Go |
 
 ---
-
-## 📝 Latest Blog Posts
+-->
+<!--
+## 📝 Latest Blog Posts-->
 <!-- BLOG-POST-LIST:START -->
+<!--
 - Article 1
 - Article 2
 - Article 3
+-->
 <!-- BLOG-POST-LIST:END -->
 
 ---
